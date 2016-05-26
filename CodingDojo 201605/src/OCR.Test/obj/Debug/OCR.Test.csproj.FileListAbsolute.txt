@@ -1,0 +1,15 @@
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\OCR.Test.dll
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\OCR.Test.pdb
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\FluentAssertions.dll
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\nunit.framework.dll
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\OCR.dll
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\OCR.pdb
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\FluentAssertions.pdb
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\FluentAssertions.xml
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\bin\Debug\nunit.framework.xml
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\obj\Debug\OCR.Test.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\obj\Debug\OCR.Test.dll
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR.Test\obj\Debug\OCR.Test.pdb

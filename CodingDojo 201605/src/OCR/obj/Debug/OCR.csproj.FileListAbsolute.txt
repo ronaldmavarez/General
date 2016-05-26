@@ -1,0 +1,5 @@
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR\bin\Debug\OCR.dll
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR\bin\Debug\OCR.pdb
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR\obj\Debug\OCR.dll
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR\obj\Debug\OCR.pdb
+C:\Users\Ronald\Documents\Visual Studio 2015\Projects\CodingDojo2016\src\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
